@@ -1,12 +1,13 @@
 # Open Data Day Publicbodies.org Nepal
 
-We've gathered on Saturday, 5th March 2022 in order to try and automate
+We've gathered on Saturday, 5th March 2022 with
+[Open Knowledge Nepal](https://oknp.org/) in order to try and automate
 the collection of data about Nepalese public organizations.
 
 ## Participants
 
-* @augusto-herrmann
-* @nikeshbalami
+* @[augusto-herrmann](https://github.com/augusto-herrmann)
+* @[nikeshbalami](https://github.com/nikeshbalami)
 * (please add the names of the other paticipants here if you want)
 
 ## Data source
