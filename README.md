@@ -21,11 +21,8 @@ that.
 
 ## Code
 
-The code is in [nepal-public-bodies.py](nepal-public-bodies.py). It is
-a Jupyter Notebook in percent script format (requires Jupytext to open).
-I used percent script because the notebook is stored in a Python file
-format that plays nice with git version control, if and when we need to
-evolve it
+The code is in [nepal-public-bodies.ipynb](nepal-public-bodies.ipynb). in
+Jupyter Notebook format.
 
 ## Next steps
 
